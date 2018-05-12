@@ -1,0 +1,37 @@
+_repo: Frank-Merriwell-s-Races_21958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    - Wilder, William West
+    - Patten, William Gilbert
+    - Wilder, William W. (William West)
+    - Patten, Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Yale University -- Juvenile fiction'
+- !lcsh 'Sports -- Juvenile fiction'
+- !lcc 'PZ'
+title: Frank Merriwell's Races
+url: http://www.gutenberg.org/ebooks/21958
